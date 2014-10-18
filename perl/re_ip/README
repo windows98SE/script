@@ -1,0 +1,27 @@
+=================================================================
+░░░░░░░░░░░░▄▄░░░░░░░░░░░░░░ Copyright (c) 2011 by windows98SE
+░░░░░░░░░░░█░░█░░░░░░░░░░░░░
+░░░░░░░░░░░█░░█░░░░░░░░░░░░░ This software is open source,
+░░░░░░░░░░█░░░█░░░░░░░░░░░░░ licensed under the GNU/GPL,v3.
+░░░░░░░░░█░░░░█░░░░░░░░░░░░░
+██████▄▄█░░░░░██████▄░░░░░░░ Basically,
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░░░░░ this means that you're allowed to modify and
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░░░░░ distribute this software.
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░░░░░ However, if you distribute modified versions,
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░░░░░ you MUST also distribute the source code.
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░░░░░
+▓▓▓▓▓▓█████░░░░░░░░░██░░░░░░ See http://www.gnu.org/licenses/gpl.html
+█████▀░░░░▀▀████████░░░░░░░░ for the full license.
+=================================================================
+Usage: ./re_ip.pl <IP|hostname>
+
+re_ip.pl is reverse DNS lookup tool by reip.stephack.com/<host>
+it easy way to view websites hosted on a given IP address or hostnames
+
+Copyright (c) 2011 by windows98SE
+Blog: http://www.stephack.com
+
+=================================================================
+Usage: ./re_ip.pl <IP|hostname>
+=================================================================
+
