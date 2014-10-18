@@ -19,7 +19,7 @@ Blog: http://www.stephack.com
 
 mem_search.pl
 desc : for besic search some sting in memory
-ss : https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/522077_459669297385778_1256887349_n.jpg
+ss : http://www.stephack.com/wp-content/uploads/2014/09/10317692_553723788061296_5590488192745617180_o.png
 =================================================================
 
 usage : mem_search.pl <program name*> <string>
