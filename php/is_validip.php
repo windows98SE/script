@@ -1,4 +1,5 @@
 <?php
+
 function is_validip($ip){
   if(!empty($ip)&&$ip==long2ip(ip2long($ip))){
     $reserved_ips=array(
